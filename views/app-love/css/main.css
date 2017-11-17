@@ -207,7 +207,27 @@ article{
 }
 
 .sec3{
-  border: 1px solid blue;
   height: 660px;
+}
 
+.sec2{
+  width: 15%;
+}
+
+.prueba{
+  justify-content: center;
+  position: relative;
+}
+
+#circulos .contenido-circulos-txt{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  flex-wrap: wrap;
+  color: red;
+  text-align: center;
+}
+
+.contenido-circulos-txt img{
+  width: 15%;
 }
